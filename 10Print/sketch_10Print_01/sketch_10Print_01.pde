@@ -23,7 +23,7 @@ void setup() {
 }
 
 void draw() {
-  //step = random(20);
+  //step = random(30);
   if (y <= height-step/2) { 
 
     strokeWeight(2);
